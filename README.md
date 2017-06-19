@@ -1,4 +1,4 @@
-CodingBat Java Warmup-1 notString
+CodingBat Java Warmup-1 Question #9 notString
 
 Given a string, return a new string where "not " has been added to the front.
 However, if the string already begins with "not", return the string unchanged.
